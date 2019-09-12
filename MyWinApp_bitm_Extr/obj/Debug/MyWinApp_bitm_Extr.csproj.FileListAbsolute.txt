@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2013\Projects\MyWinApp_bitm_Extr\MyWinApp_bitm_Extr\bin\Debug\MyWinApp_bitm_Extr.exe.config
+D:\BITM\Git\Bitm_day2_12sep19\MyWinApp_bitm_day2\MyWinApp_bitm_Extr\bin\Debug\MyWinApp_bitm_Extr.exe.config
+D:\BITM\Git\Bitm_day2_12sep19\MyWinApp_bitm_day2\MyWinApp_bitm_Extr\bin\Debug\MyWinApp_bitm_Extr.exe
+D:\BITM\Git\Bitm_day2_12sep19\MyWinApp_bitm_day2\MyWinApp_bitm_Extr\bin\Debug\MyWinApp_bitm_Extr.pdb
+D:\BITM\Git\Bitm_day2_12sep19\MyWinApp_bitm_day2\MyWinApp_bitm_Extr\obj\Debug\MyWinApp_bitm_Extr.csprojResolveAssemblyReference.cache
+D:\BITM\Git\Bitm_day2_12sep19\MyWinApp_bitm_day2\MyWinApp_bitm_Extr\obj\Debug\MyWinApp_bitm_Extr.Properties.Resources.resources
+D:\BITM\Git\Bitm_day2_12sep19\MyWinApp_bitm_day2\MyWinApp_bitm_Extr\obj\Debug\MyWinApp_bitm_Extr.csproj.GenerateResource.Cache
+D:\BITM\Git\Bitm_day2_12sep19\MyWinApp_bitm_day2\MyWinApp_bitm_Extr\obj\Debug\MyWinApp_bitm_Extr.exe
+D:\BITM\Git\Bitm_day2_12sep19\MyWinApp_bitm_day2\MyWinApp_bitm_Extr\obj\Debug\MyWinApp_bitm_Extr.pdb
+D:\BITM\Git\Bitm_day2_12sep19\MyWinApp_bitm_day2\MyWinApp_bitm_Extr\obj\Debug\MyWinApp_bitm_Extr.Form1.resources
