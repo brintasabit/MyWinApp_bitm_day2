@@ -10,10 +10,12 @@ using System.Windows.Forms;
 
 namespace MyWinApp_bitm_Extr
 {
-    public partial class Form1 : Form
+    public partial class PersonalInformationForm : Form
     {
-        
-        public Form1()
+        Calculator cal = new Calculator();
+
+
+        public PersonalInformationForm()
         {
             InitializeComponent();
         }
@@ -62,6 +64,18 @@ namespace MyWinApp_bitm_Extr
             string address = AddressNameTextbox.Text;
             MessageBox.Show("Address is "+address);
 
+        }
+
+        private void CalculatorButton_Click(object sender, EventArgs e)
+        {
+            if (cal.IsDisposed)
+            {
+                cal = new Calculator();
+            }
+            
+            cal.Show();
+            cal.BringToFront();
+            
         }
     }
 }

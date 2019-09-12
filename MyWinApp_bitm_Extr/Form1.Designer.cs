@@ -1,6 +1,6 @@
 ﻿namespace MyWinApp_bitm_Extr
 {
-    partial class Form1
+    partial class PersonalInformationForm
     {
         /// <summary>
         /// Required designer variable.
@@ -44,6 +44,7 @@
             this.NameButton = new System.Windows.Forms.Button();
             this.AddressButton = new System.Windows.Forms.Button();
             this.ParentsButton = new System.Windows.Forms.Button();
+            this.CalculatorButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -185,11 +186,22 @@
             this.ParentsButton.UseVisualStyleBackColor = true;
             this.ParentsButton.Click += new System.EventHandler(this.ParentsButton_Click);
             // 
-            // Form1
+            // CalculatorButton
+            // 
+            this.CalculatorButton.Location = new System.Drawing.Point(183, 468);
+            this.CalculatorButton.Name = "CalculatorButton";
+            this.CalculatorButton.Size = new System.Drawing.Size(140, 56);
+            this.CalculatorButton.TabIndex = 4;
+            this.CalculatorButton.Text = "Calculator";
+            this.CalculatorButton.UseVisualStyleBackColor = true;
+            this.CalculatorButton.Click += new System.EventHandler(this.CalculatorButton_Click);
+            // 
+            // PersonalInformationForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(532, 659);
+            this.Controls.Add(this.CalculatorButton);
             this.Controls.Add(this.AddressButton);
             this.Controls.Add(this.ParentsButton);
             this.Controls.Add(this.NameButton);
@@ -206,8 +218,8 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "PersonalInformationForm";
+            this.Text = "Personal Information";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -231,6 +243,7 @@
         private System.Windows.Forms.Button NameButton;
         private System.Windows.Forms.Button AddressButton;
         private System.Windows.Forms.Button ParentsButton;
+        private System.Windows.Forms.Button CalculatorButton;
     }
 }
 
